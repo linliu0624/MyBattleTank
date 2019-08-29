@@ -22,11 +22,11 @@ Sounds
  - Music on title screen
  - Epic music in game
  - In game
-  - World sound
-  - Gun Sound
-  - Turret Moving
-  - Engine Sound
-  - Explosion
+     - World sound
+     - Gun Sound
+     - Turret Moving
+     - Engine Sound
+     - Explosion
 Particle Effect
 
  - Gun Firing
