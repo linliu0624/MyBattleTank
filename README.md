@@ -6,7 +6,7 @@ Thrall Rasha - Beginner c++ & Unreal Student
 Game Creating following the Unreal Engine [Course](https://www.udemy.com/unrealcourse/) made by Ben Tristem for Udemy
 
 # Game Design Document
----
+
 ## Concept
 
  - Open World Tank combat game
