@@ -9,26 +9,26 @@ Game Creating following the Unreal Engine [Course](https://www.udemy.com/unrealc
 ---
 Concept
 
- -Open World Tank combat game
- -The terrain will be used for tactical adventage
- -The focus will be on flow and feel
+ - Open World Tank combat game
+ - The terrain will be used for tactical adventage
+ - The focus will be on flow and feel
 Rules
 
- -You can move anywhere in the terrain which is surround by mountains
- -Each direct hit takes away health
- -Last player standing wins
+ - You can move anywhere in the terrain which is surround by mountains
+ - Each direct hit takes away health
+ - Last player standing wins
 Sounds
 
- -Music on title screen
- -Epic music in game
- -In game
-  -World sound
-  -Gun Sound
-  -Turret Moving
-  -Engine Sound
-  -Explosion
+ - Music on title screen
+ - Epic music in game
+ - In game
+  - World sound
+  - Gun Sound
+  - Turret Moving
+  - Engine Sound
+  - Explosion
 Particle Effect
 
- -Gun Firing
- -Moving
- -On hit
+ - Gun Firing
+ - Moving
+ - On hit
