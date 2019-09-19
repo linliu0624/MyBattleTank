@@ -2,6 +2,7 @@
 	"files.exclude": {
 		"D:/MyUE4/04_Battle Tank/MyBattleTank/BattleTank/.vscode": true,
 		"D:/MyUE4/04_Battle Tank/MyBattleTank/BattleTank/Content": true,
-		"D:/MyUE4/04_Battle Tank/MyBattleTank/BattleTank/Intermediate": true
+		"D:/MyUE4/04_Battle Tank/MyBattleTank/BattleTank/Intermediate": true,
+		"D:/MyUE4/04_Battle Tank/MyBattleTank/BattleTank/Saved": true
 	}
 }
